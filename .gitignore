@@ -1,5 +1,5 @@
-Calculadora/bin/*
-Calculadora/obj/*
+Calculadora/bin
+Calculadora/obj
 
-CalculadoraTests/bin/*
-CalculadoraTests/obj/*
+CalculadoraTests/bin
+CalculadoraTests/obj
