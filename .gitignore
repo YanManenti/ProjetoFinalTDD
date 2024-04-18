@@ -1,2 +1,5 @@
-bin/
-obj/
+Calculadora/bin/*
+Calculadora/obj/*
+
+CalculadoraTests/bin/*
+CalculadoraTests/obj/*
